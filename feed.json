@@ -1,0 +1,29 @@
+{
+  "SmartBulb": {
+    "type": "bulb",
+    "id": "bulb",
+    "name": "Smart Bulb",
+    "connectionState": "connected",
+    "isTurnedOn": true,
+    "brightness": 78,
+    "color": "#f7f083"
+  },
+
+  "SmartOutlet": {
+    "type": "outlet",
+    "id": "outlet",
+    "name": "Smart Outlet",
+    "connectionState": "poorConnection",
+    "isTurnedOn": true,
+    "powerConsumption": 6
+  },
+
+  "SmartTemperatureSensor": {
+    "type": "temperatureSensor",
+    "id": "sensor",
+    "name": "Temperature Sensor",
+    "connectionState": "disconnected",
+    "isTurnedOn": false,
+    "temperature": 21
+  }
+}
