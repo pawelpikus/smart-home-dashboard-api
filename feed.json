@@ -6,9 +6,8 @@
     "connectionState": "connected",
     "isTurnedOn": true,
     "brightness": 78,
-    "color": "#f7f083"
+    "color": "#7dcefa"
   },
-
   "SmartOutlet": {
     "type": "outlet",
     "id": "outlet",
@@ -17,7 +16,6 @@
     "isTurnedOn": true,
     "powerConsumption": 6
   },
-
   "SmartTemperatureSensor": {
     "type": "temperatureSensor",
     "id": "sensor",
